@@ -1,0 +1,14 @@
+# === Arquivos Compilados do Java ===
+# Ignora todos os arquivos .class gerados após compilar (javac)
+*.class
+
+# === Configurações do VS Code para Java ===
+# Ignora as pastas de ambiente e histórico criadas pelo VS Code e suas extensões
+.vscode/
+.bin/
+bin/
+.clean/
+
+# === Arquivos do Windows ===
+Thumbs.db
+desktop.ini
