@@ -1,0 +1,10 @@
+Resposta das Questões da Lista 1
+
+Exercício 2 - Teste de mesa do crescimento e encolhimento
+
+a)Quando a capacidade dobra: antes ou depois de o vetor ficar cheio? Justifique pelo código do add.
+Resposta: A capacidade dobra depois que o vetor ficar totalmente cheio.
+
+b)Qual a menor capacidade que o vetor atinge no final? Que parte da condição dentro do remove
+impede que ele continue encolhendo?
+Resposta: A menor capacidade que ele atinge é 5. E o que impede é a regra que não pode encolher abaixo de 10.
