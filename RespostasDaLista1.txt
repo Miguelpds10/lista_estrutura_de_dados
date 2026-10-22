@@ -8,3 +8,21 @@ Resposta: A capacidade dobra depois que o vetor ficar totalmente cheio.
 b)Qual a menor capacidade que o vetor atinge no final? Que parte da condição dentro do remove
 impede que ele continue encolhendo?
 Resposta: A menor capacidade que ele atinge é 5. E o que impede é a regra que não pode encolher abaixo de 10.
+
+Exercício 4 - Maior, menor e soma
+
+a) Com que valor você deve inicializar a variável que guarda o maior? Mostre por que começar com
+0 dá resposta errada em um vetor que contém apenas números negativos.
+Resposta: Devemos inicializar a variável com o primeiro elemento do vetor. se começarmos com zero
+em um vetor com valores negativos, tem uma resposta errada, pelo fato que nenhum deles é maior
+que zero.
+ 
+
+b) Os três métodos precisam decidir o que fazer com o vetor vazio. Escolha um comportamento,
+implemente e escreva um comentário explicando a escolha.
+Resposta: Está na classe TesteSoma da pasta vetor
+
+
+c) Escreva também public double media (), reaproveitando soma e getOcupacao. Cuidado com a divisão
+entre inteiros.
+Resposta: Está no comentário da classe NossoVetor da pasta vetor

@@ -172,4 +172,39 @@ public class NossoVetor {
         }
         return cont;
     }
+
+    public int maior(){
+        int maior = v[0];
+        for(int i = 1; i < ocupacao; i++){
+            if(v[i] > maior){
+                maior = v[i];
+            }
+        }
+        return maior;
+    }
+
+    public int menor(){
+        int menor = v[0];
+        for(int i = 1; i < ocupacao; i++){
+            if(v[i] < menor){
+                menor = v[i];
+            }
+        }
+        return menor;
+    }
+
+    public int soma(){
+        int soma = 0;
+        for(int i = 0; i < ocupacao; i++){
+            soma += v[i];
+        }
+        return soma;
+    }
+
+    public double media(){
+        if(ocupacao == 0){
+            return 0;
+        }
+        return (double) soma() / getOcupacao();
+    }
 }
