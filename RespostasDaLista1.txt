@@ -26,3 +26,24 @@ Resposta: Está na classe TesteSoma da pasta vetor
 c) Escreva também public double media (), reaproveitando soma e getOcupacao. Cuidado com a divisão
 entre inteiros.
 Resposta: Está no comentário da classe NossoVetor da pasta vetor
+
+Exercício 6 — Previsão de saída
+
+a) Escreva a saída completa, lembrando que o toString imprime do topo para a base.
+Resposta: 
+---------
+9 3 7 
+
+9
+3
+---------
+7 
+
+1
+false
+
+b) Quantos elementos sobraram na pilha? E qual o valor de topo nesse momento?
+Resposta: Sobrou 1 elemento na pilha e o valor do topo é 7.
+
+c) O que o toString imprime quando a pilha está vazia? Encontre a resposta no código, sem rodar.
+Resposta: Ele retorna a mensagem pilha vazia.
