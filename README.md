@@ -29,6 +29,10 @@ Como este projeto foi desenvolvido utilizando o **Visual Studio Code**, siga os 
 3. Compile todos os arquivos `.java` da pasta de uma só vez executando:
    ```bash
    javac *.java
+4. Execute a classe de teste desejada (por exemplo, Teste1, TestePilha, entre outras):
+    ```bash
+   java *.Teste1
+   **Substitua Teste1 pelo nome da classe de teste correspondente aos exercícios que deseja rodar).** 
    ## 📋 Conteúdo da Lista de Exercícios
 
 - **Seção 1: Nosso Vetor**
