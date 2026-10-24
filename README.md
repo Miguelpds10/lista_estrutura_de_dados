@@ -34,7 +34,7 @@ Como este projeto foi desenvolvido utilizando o **Visual Studio Code**, siga os 
    java *.Teste1
    **Substitua Teste1 pelo nome da classe de teste correspondente aos exercícios que deseja rodar).** 
 
-#📋 Conteúdo da Lista de Exercícios
+📋 Conteúdo da Lista de Exercícios
 
 - **Seção 1: Nosso Vetor**
   - Análise de comportamento, capacidade e ocupação.
