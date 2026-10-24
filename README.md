@@ -54,5 +54,6 @@ Como este projeto foi desenvolvido utilizando o **Visual Studio Code**, siga os 
 
 ## 👨‍💻 Autor
 **Miguel Pinto da Silva** - (https://github.com/Miguelpds10/) - Desenvolvimento do projeto e resoluções dos exercícios.
+<br>
 **Isabela de Oliveira Alves** - (https://github.com/IsabelaCSS) -  Desenvolvimento do projeto e resoluções dos exercícios.
 Desenvolvido como parte das atividades práticas da disciplina de **Estrutura de Dados**.
