@@ -1,8 +1,7 @@
 public class TesteSoma {
     public static void main(String[] args){
 
-        //Escolhi testar os métodos maior, menor e media, para retornarem 0, 
-        // pois o vetor está vazio, e não há elementos para calcular a soma, maior, menor e média.
+        //Escolhi testar os métodos maior, menor e media, para retornarem 0, pois o vetor está vazio, e não há elementos para calcular a soma, maior, menor e média.
         System.out.println("------------Vetor Vazio----------------");
         NossoVetor vetorvazio = new NossoVetor(4);
         System.out.println(vetorvazio.maior()); 
