@@ -1,11 +1,15 @@
+# 📚 Estrutura de Dados - Lista de Exercícios 1 (Java)
+
+Repositório dedicado à resolução da **Lista 1 de Estrutura de Dados**, focando na implementação, manipulação e evolução de estruturas de dados fundamentais em **Java**: `NossoVetor`, `Pilha` e algoritmos de `Recursão`.
+
 ---
 
 ## 🚀 Estrutura do Projeto
 
 O projeto é composto por classes principais de estruturas de dados e suas respectivas classes de teste:
 
-**`NossoVetor`**: Implementação de um vetor dinâmico com controle de capacidade, crescimento e encolhimento automático, além de métodos de busca (`contem`, `quantidade`), estatísticas (`maior`, `menor`, `soma`, `media`) e tratamento de remoção.
-**`Pilha`**: Implementação de uma Pilha (Stack) baseada em vetor, contendo operações de empilhar, desempilhar, espiar o topo, esvaziar e algoritmos práticos como o verificador de palíndromos.
+**NossoVetor**: Implementação de um vetor dinâmico com controle de capacidade, crescimento e encolhimento automático, além de métodos de busca (`contem`, quantidade`), estatísticas (`maior`, `menor`, `soma`, `media`) e tratamento de remoção.
+* **`Pilha`**: Implementação de uma Pilha (Stack) baseada em vetor, contendo operações de empilhar, desempilhar, espiar o topo, esvaziar e algoritmos práticos como o verificador de palíndromos.
 **`Recursao`**: Conjunto de métodos estáticos recursivos (como fatorial, soma até $n$, contagem e soma de dígitos, potência e fibonacci), acompanhados de análises de desempenho, contagem de chamadas e limites de capacidade dos tipos `int` e `long`.
 
 ---
@@ -25,7 +29,6 @@ Como este projeto foi desenvolvido utilizando o **Visual Studio Code**, siga os 
 3. Compile todos os arquivos `.java` da pasta de uma só vez executando:
    ```bash
    javac *.java
-
    ## 📋 Conteúdo da Lista de Exercícios
 
 - **Seção 1: Nosso Vetor**
