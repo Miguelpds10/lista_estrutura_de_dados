@@ -25,7 +25,6 @@ public class TestePilha {
         elementoAbaixoDoTopo();
         empilhaMaiorQueTopo();
         InvertePilha();
-
     }
 
     public static void elementoAbaixoDoTopo(){
